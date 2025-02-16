@@ -1,0 +1,1 @@
+print("thank you teacher and zayd")
